@@ -1,9 +1,11 @@
 {
   "name": "portfolio-website",
   "version": "0.1.0",
+  "homepage": "https://mrantonp1977.github.io/portfolio-website",
   "private": true,
+  
   "dependencies": {
-    "homepage": "http://mrantonp1977.github.io/portfolio-website",
+    
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "react": "^18.2.0",
